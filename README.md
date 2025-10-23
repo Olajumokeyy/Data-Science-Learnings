@@ -17,14 +17,14 @@ All projects are built around real-world, data-driven use cases, demonstrating t
 
 | # | Project Area | Description | Example Focus |
 |---|---------------|--------------|----------------|
-| **1** | **Python Fundamentals & Programming** | Core Python concepts: syntax, data types, loops, functions, OOP, and error handling. | Implement small utilities, automation scripts, or a CLI-based project. |
+| **1** | **Python Fundamentals & Programming** | Core Python concepts: syntax, data types, loops, functions, OOP, and error handling. | Implement small utilities, automation scripts, and a CLI-based project. |
 | **2** | **Data Cleaning with Pandas** | Explore data preprocessing, handling missing values, outliers, and data transformation. | Clean and reshape messy datasets to make them analysis-ready. |
-| **3** | **Data Analysis with SQL** | Perform structured data analysis using SQL queries. | Query relational databases for customer insights or financial KPIs. |
+| **3** | **Data Analysis with SQL** | Perform structured data analysis using SQL queries. | Query relational databases for customer insights and financial KPIs. |
 | **4** | **Data Visualization** | Communicate insights effectively using visual tools and libraries. | Use `matplotlib`, `seaborn`, or `plotly` to create dashboards and analytical visuals. |
 | **5** | **Exploratory Data Analysis (EDA) Project** | Investigate data patterns, relationships, and trends using statistics and visuals. | Perform EDA on a real dataset — uncovering patterns and actionable insights. |
 | **6** | **Machine Learning Basics** | Build and evaluate supervised and unsupervised ML models. | Implement regression, classification, and clustering algorithms with scikit-learn. |
-| **7** | **Deep Learning** | Understand and apply neural network concepts using modern frameworks. | Build a simple ANN or CNN for text or image classification tasks. |
-| **8** | **API & Web Scraping** | Learn to extract and integrate external data sources using APIs and web scraping tools. | Pull financial, weather, or product data via APIs or HTML parsing. |
+| **7** | **Deep Learning** | Understand and apply neural network concepts using modern frameworks. | Build a simple ANN or CNN for text and image classification tasks. |
+| **8** | **API & Web Scraping** | Learn to extract and integrate external data sources using APIs and web scraping tools. | Pull financial data via APIs or HTML parsing. |
 
 ---
 
@@ -68,7 +68,7 @@ To demonstrate continuous learning and technical depth across the **core pillars
 ##  Contact
 **LinkedIn:** [My LinkedIn link ](https://www.linkedin.com/in/olajumokey/) 
 **GitHub:** [[My GitHub profile](https://github.com/Olajumokeyy) 
-**Email:** [My email – olajumokeyd@gmail.com]  
+**Email:** [My email][olajumokeyd@gmail.com]  
 
 ---
 
