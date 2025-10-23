@@ -67,8 +67,8 @@ To demonstrate continuous learning and technical depth across the **core pillars
 
 ##  Contact
 **LinkedIn:** [My LinkedIn link ](https://www.linkedin.com/in/olajumokey/) 
-**GitHub:** [[My GitHub profile](https://github.com/Olajumokeyy) 
-**Email:** [My email][olajumokeyd@gmail.com]  
+**GitHub:** [My GitHub profile](https://github.com/Olajumokeyy) 
+**Email:** [My email](olajumokeyd@gmail.com) 
 
 ---
 
